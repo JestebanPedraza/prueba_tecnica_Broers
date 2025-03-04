@@ -1,0 +1,11 @@
+# Omitir archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Omitir configuraciones de entorno y dependencias
+.env
+.DS_Store
+
+
